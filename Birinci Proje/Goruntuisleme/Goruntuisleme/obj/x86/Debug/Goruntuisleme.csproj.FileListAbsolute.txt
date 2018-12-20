@@ -1,0 +1,64 @@
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\AForge.dll
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\AForge.Imaging.dll
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\AForge.Video.dll
+C:\Users\Elektronik\AppData\Local\Temporary Projects\Goruntuisleme\bin\Debug\AForge.Vision.dll
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\Elektronik\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.dll
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.GenerateResource.cache
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CopyComplete
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+C:\Users\MYS\Desktop\goruntuisleme\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.GenerateResource.cache
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CopyComplete
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+C:\Users\MYS\Desktop\goruntuislemeeee\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.GenerateResource.cache
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CopyComplete
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+F:\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csprojAssemblyReference.cache
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Form1.resources
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.GenerateResource.cache
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.csproj.CopyComplete
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.exe
+C:\Users\dursun\Desktop\İlk Proje\Goruntuisleme\Goruntuisleme\obj\x86\Debug\Goruntuisleme.pdb
